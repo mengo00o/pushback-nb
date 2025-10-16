@@ -65,21 +65,87 @@ Each design contributes unique insights toward developing the **final competitio
 
 ---
 
-## CAD 3 — [Name v1]
+## CAD 3 — [Meng v1]
 
-*(Repeat the same structure as above.)*
+| **Front View** | **Back View** |
+|:---------------:|:--------------:|
+| 
+
+| **Side View** | **Isometric View** |
+|:--------------:|:------------------:|
+| 
+
+
+### Specs
+| Parameter | Value |
+|------------|--------|
+| **Drivetrain RPM** | 450 RPM |
+| **Drivetrain Wheel Size** | 3.25" omni|
+| **Bot Type** | Hoard |
+| **Capacity** | 12-13 blocks |
+| **Motors Used** | 6×11W blue + 1×11w green + 2×5.5w|
+| **Intake Type** | Rubber Band Barrel |
+
+### Comments
+- Far too tall, no space for tongue mech
+- Odomatry pods are facing different ways
+- Metal standoffs for the basket are a bit heavy and unnecessary
+
+
 
 ---
 
-## CAD 4 — [Name v1]
+## CAD 4 — [Chris v1]
 
-*(Repeat the same structure as above.)*
+| **Front View** | **Back View** |
+|:---------------:|:--------------:|
+| 
+
+| **Side View** | **Isometric View** |
+|:--------------:|:------------------:|
+| 
+
+
+### Specs
+| Parameter | Value |
+|------------|--------|
+| **Drivetrain RPM** | 450 RPM |
+| **Drivetrain Wheel Size** | 3.25" omni|
+| **Bot Type** | Hoard |
+| **Capacity** | 12-13 blocks |
+| **Motors Used** | 6×11W blue + 1×11w green + 2×5.5w|
+| **Intake Type** | Rubber Band Barrel |
+
+### Comments
+- 
+
 
 ---
 
-## CAD 5 — [Name v1]
+## CAD 5 — [Daiwik v1]
 
-*(Repeat the same structure as above.)*
+| **Front View** | **Back View** |
+|:---------------:|:--------------:|
+| 
+
+| **Side View** | **Isometric View** |
+|:--------------:|:------------------:|
+| 
+
+
+### Specs
+| Parameter | Value |
+|------------|--------|
+| **Drivetrain RPM** | 450 RPM |
+| **Drivetrain Wheel Size** | 3.25" omni|
+| **Bot Type** | Hoard |
+| **Capacity** | 12-13 blocks |
+| **Motors Used** | 6×11W blue + 1×11w green + 2×5.5w|
+| **Intake Type** | Rubber Band Barrel |
+
+### Comments
+- 
+
 
 ---
 
