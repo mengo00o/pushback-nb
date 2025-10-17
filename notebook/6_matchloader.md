@@ -14,7 +14,7 @@ A match loader or tongue mech is an extending arm located at the front of the ro
 
 # Description
 
-Our match loader has one pneumatic and is made up of stand-offs as well as L channels. There are 4 stand-offs at the front to help load the balls. Two of them are short and go inside the dispenser. The other two of them are long and extend into the robot to guid them in.   
+Our match loader has one pneumatic and is made up of stand-offs as well as L channels. There are 4 stand-offs at the front to help load the balls. Two of them are short and go inside the dispenser. The other two of them are long and extend into the robot to guide them in.   
 
 **Cons**
 - Stand-offs were hard to line up and constantly twisted the wrong way
@@ -33,12 +33,25 @@ Our match loader has one pneumatic and is made up of stand-offs as well as L cha
 ## V2 Match Loader
 
 
-*insert images here* ( there is an isometric top and side view in the group chat)
+*insert images here* ( there is an isometric, top, and side view in the group chat)
 
 
 # Description 
 
-This new version of our match loader features many new features, like instead of stand-offs, we have a high-strength shaft in its place. We also added rollers (gears covered in track) in front of the match loader. There is also a piece of hand-cut polycarbonate in the front 
+This new version of our match loader features many new quirks, like instead of stand-offs, we have a high-strength shaft in its place. We also added rollers (gears covered in track) in front of the match loader. There is also a piece of hand-cut polycarbonate in the front, tensioned with rubber bands. On the polycarbonate, notches were made to guide the robot to the highest goal.
+
+**Cons**
+- The notches are not deep enough to guide the robot consistently ( so there are basically no guides to line us up for scoring)
+- The plastic sometimes goes below the dispenser and gets stuck
+- The plastic also sometimes gets stuck on top of a ball, preventing scoring
+- The rubber bands are inconsistent and need tweaking occasionally.
+- Lining up with the dispenser is a little difficult
+
+
+**Pros**
+- The L channel and high strength shaft and stand off don't twist or bend
+- More consistent scoring
+- looks cleaner
 
   
   
