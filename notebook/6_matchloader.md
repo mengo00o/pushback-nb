@@ -12,7 +12,7 @@ A match loader or tongue mech is an extending arm located at the front of the ro
 *insert picture of it here*
 
 
-# Description
+## Description
 
 Our match loader has one pneumatic and is made up of stand-offs as well as L channels. There are 4 stand-offs at the front to help load the balls. Two of them are short and go inside the dispenser. The other two of them are long and extend into the robot to guide them in.   
 
@@ -36,7 +36,7 @@ Our match loader has one pneumatic and is made up of stand-offs as well as L cha
 *insert images here* ( there is an isometric, top, and side view in the group chat)
 
 
-# Description 
+## Description 
 
 This new version of our match loader features many new quirks, like instead of stand-offs, we have a high-strength shaft in its place. We also added rollers (gears covered in track) in front of the match loader. There is also a piece of hand-cut polycarbonate in the front, tensioned with rubber bands. On the polycarbonate, notches were made to guide the robot to the highest goal.
 
